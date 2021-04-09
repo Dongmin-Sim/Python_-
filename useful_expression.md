@@ -27,7 +27,7 @@ print(soda)  # => "you can buy soda!"
 
 ### list comprehension
 
-리스트를 생성할때 간편하기 때문에 매우매우매우 많이 쓰이기 때문에 방법을 알아두면 좋음. 한줄의 코드로 매우 간단하게 생성이 가능함. 
+List comprehension은 리스트를 생성할때 간편하기 때문에 매우매우매우 많이 쓰이기 때문에 방법을 알아두면 좋음. 한줄의 코드로 매우 간단하게 생성이 가능함. 
 
 *List comprehension* 을 사용하는 가장 기본적인 방법은 다음과 같음. 
 
