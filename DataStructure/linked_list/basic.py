@@ -18,7 +18,7 @@ class Linkedlist:
 
     def append(self, data):
         new_node = Node(data)
-        self.tail.next = new_node
+        self.tail.next = new_nodew
         self.tail = new_node
 
         self.num_of_data += 1
