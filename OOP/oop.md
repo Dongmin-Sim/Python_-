@@ -15,7 +15,7 @@ OOP 는 Object Oriented Programing 의 줄임말로, 객체의 관점에서 프�
 
 
 
-## Abstraction : 추상화
+## Abstraction:추상화
 
 
 
@@ -46,4 +46,18 @@ def type_hint(a:float) -> None:
 
 
 
-## Encapsulation : 캡슐화
+## Encapsulation:캡슐화
+
+
+
+
+
+## Inheritance:상속
+
+오버라이드
+
+
+
+
+
+## Polymorphism:다형성
