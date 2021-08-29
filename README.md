@@ -28,5 +28,6 @@
 
 > 데이터의 효율적인 접근 및 조작을 가능케 하는 자료의 저장 및 관리방식
 
+[정리 노트 보러가기](https://github.com/Dongmin-Sim/Python_Basic/blob/main/DataStructure/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 - 배열
 - 스택과 큐
